@@ -71,7 +71,7 @@ python
 ### 2. Passos
 1. Clone este repositório:
    ```bash
-   git clone https://calebe.navarro
+   git clone git@github.com:CalebeNavarro/projeto_uc_ai.git
     ```
     
 2. Faça a instalação:
